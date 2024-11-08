@@ -8,6 +8,6 @@ if (isset($var1, $var2)) {
     echo "Salah satu atau kedua variabel belum di-set.";
 }
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";
 
 ?>

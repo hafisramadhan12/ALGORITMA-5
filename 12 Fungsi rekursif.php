@@ -11,6 +11,6 @@ function faktorial($angka) {
 // memanggil fungsi
 echo "faktorial 5 adalah " . faktorial(5);
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";
 
 ?>

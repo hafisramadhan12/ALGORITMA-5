@@ -6,6 +6,6 @@ $timestamp = strtotime("10 September 2000");
 echo $timestamp; // Menampilkan timestamp untuk tanggal 10 September 2000
 
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";
 
 ?>

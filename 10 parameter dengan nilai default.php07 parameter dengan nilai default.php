@@ -15,4 +15,7 @@ $kita = "ilham";
 $ucapanSalam = "Selamat pagi";
 // memanggilnya lagi tanpa mengisi parameter salam
 perkenalan($kita);
+
+echo "<p><strong><i>hafis ramadhan</strong>";
+
 ?>

@@ -2,6 +2,6 @@
 $sekarang = time();
 echo $sekarang;
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";
 
 ?>

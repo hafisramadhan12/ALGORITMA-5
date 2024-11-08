@@ -9,4 +9,5 @@ if(isset($_COOKIE["user"])) {
 // Mengatur expiry time ke satu jam yang lalu
 setcookie("user", "", time() - 3700);
 
+
 echo "<p><strong><i>by hafis ramadhan</strong>";

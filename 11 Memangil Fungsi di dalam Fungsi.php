@@ -15,6 +15,6 @@ function perkenalan($nama, $salam="Assalamualaikum"){
 // memanggil fungsi perkenalan
 perkenalan("hafis");
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";
 
 ?>

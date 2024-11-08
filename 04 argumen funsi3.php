@@ -7,4 +7,4 @@ function nama_bulan($bulan, $tahun) {
 }
 nama_bulan('sebtember', 2008); // Hasil Januari 2016
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";

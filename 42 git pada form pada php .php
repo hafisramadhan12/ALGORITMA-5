@@ -13,6 +13,7 @@
 		echo '<br>';
 		echo 'Email: ' . $_GET['email'];
 	}
+	
 	?>
 </body>
 </html>

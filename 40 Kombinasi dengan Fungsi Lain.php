@@ -7,6 +7,6 @@ if (isset($var4) && !empty($var4)) {
     echo "Variabel 'var4' kosong atau belum di-set.";
 }
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";
 
 ?>

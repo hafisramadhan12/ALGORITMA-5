@@ -12,4 +12,4 @@ function jumlahkan() {
 
 echo jumlahkan(1, 2, 3, 4); // Output: 10
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";

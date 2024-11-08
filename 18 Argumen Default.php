@@ -6,4 +6,4 @@ function salam($waktu = "pagi") {
 salam(); // Output: Selamat pagi!
 salam("sore"); // Output: Selamat sore!
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";

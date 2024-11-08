@@ -11,4 +11,4 @@ $upper = array_map(function($value) {
 }, $kendaraan);
 echo '<pre>'; print_r($upper);
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";

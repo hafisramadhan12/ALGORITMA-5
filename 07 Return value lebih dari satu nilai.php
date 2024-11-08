@@ -7,4 +7,4 @@ function nama_bulan($bulan) {
 $bulan = nama_bulan(3);
 echo '<pre>'; print_r($bulan);
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";

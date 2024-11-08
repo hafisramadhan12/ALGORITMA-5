@@ -13,6 +13,6 @@ if (isset($array["alamat"])) {
     echo "Kunci 'alamat' tidak ada di array.";
 }
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";
 
 ?>

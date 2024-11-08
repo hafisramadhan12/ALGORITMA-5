@@ -5,6 +5,6 @@ echo date('Y-m-d', $tomorrow);
 $nextWeek = strtotime("+1 week");
 echo date('Y-m-d', $nextWeek);
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";
 
 ?>

@@ -6,5 +6,5 @@ function sapa($nama) {
 
 sapa("hafis code");
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";
 

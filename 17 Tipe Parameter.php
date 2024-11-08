@@ -4,3 +4,5 @@ function setNilai(int $nilai) {
 }
 
 setNilai(10); // Output: 10
+
+echo "<p><strong><i>hafis ramadhan</strong>";

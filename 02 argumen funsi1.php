@@ -5,4 +5,4 @@ function nama_bulan() {
 }
 nama_bulan(); // Hasil sebtember
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";

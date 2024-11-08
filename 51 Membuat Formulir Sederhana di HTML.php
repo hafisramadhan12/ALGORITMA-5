@@ -5,5 +5,6 @@
   <label for="email">Email:</label>
   <input type="email" id="email" name="email">
   
+  
   <input type="submit" value="Kirim">
 </form>

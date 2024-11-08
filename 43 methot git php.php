@@ -4,6 +4,7 @@
     <title>Method GET</title>
 </head>
  
+
 <body>
     <form action="" method="GET">
         <input type="text" name="nama"><br />

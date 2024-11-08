@@ -12,4 +12,5 @@ unset($_SESSION["namaPengguna"]);
 session_destroy();
 
 echo "<p><strong><i>by hafis ramadhan</strong>";
+
 ?>

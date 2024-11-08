@@ -11,4 +11,4 @@ echo report(2); // Hasil Report belum tersedia;
 
 
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";

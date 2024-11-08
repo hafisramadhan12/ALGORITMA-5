@@ -5,3 +5,5 @@ date_default_timezone_set('Asia/Jakarta');
 echo date("Y-m-d H:i:s"); // output akan sesuai dengan zona waktu Jakarta
 echo date("Y-m-d", strtotime("+1 week")); // menambahkan satu minggu dari tanggal saat ini
 var_dump(checkdate(2, 29, 2021)); // output: bool(false) karena tahun 2021 bukan tahun kabisat
+
+echo "<p><strong><i>hafis ramadhan</strong>";

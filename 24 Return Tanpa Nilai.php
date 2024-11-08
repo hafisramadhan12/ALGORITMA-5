@@ -13,4 +13,4 @@ function salam($jam) {
 echo salam(25); // Tidak ada output
 echo salam(10); // Output: Selamat pagi!
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";

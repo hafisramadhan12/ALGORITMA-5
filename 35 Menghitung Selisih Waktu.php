@@ -4,6 +4,6 @@ $tanggalAkhir = strtotime("1 January 2022");
 $selisihHari = ($tanggalAkhir - $tanggalAwal) / 60 / 60 / 24;
 echo "Selisih hari: " . $selisihHari; // Menampilkan selisih hari antara dua tanggal
 
-echo "<p><strong><i>by hafis ramadhan</strong>";
+echo "<p><strong><i>hafis ramadhan</strong>";
 
 ?>
